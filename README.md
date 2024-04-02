@@ -1,10 +1,10 @@
-###Hi 👋, I'm Million Dejene.
+### Hi 👋, I'm Million Dejene.
 
-As a Senior Full-Stack Software Engineer based in Addis Ababa, Ethiopia, I bring over 5 years of experience to the table, specializing in developing comprehensive web and mobile solutions. My expertise spans a wide array of technologies, including Node.js, React.js, Android, and Python, allowing me to contribute significantly to various projects, whether they are conducted remotely or on-site.
+As a Senior Full-Stack Software Engineer based in Addis Ababa, Ethiopia, I bring over 4+ years of experience to the table, specializing in developing comprehensive web and mobile solutions. My expertise spans a wide array of technologies, including Node.js, React.js, Android, and Python, allowing me to contribute significantly to various projects, whether they are conducted remotely or on-site.
 
 Technical Proficiency:
 
-Languages & Frameworks: Proficient in TypeScript, JavaScript, Python, Java, Kotlin, React, Vue, Flutter, Node.js, GraphQL, and Django, I adeptly navigate both frontend and backend landscapes.
+Languages & Frameworks: Proficient in TypeScript, JavaScript, Python, React, Vue, Flutter, Node.js, GraphQL, and Django, I adeptly navigate both frontend and backend landscapes.
 DevOps & Databases: Skilled in DevOps practices and database management, ensuring robust and scalable solutions.
 Current Focus:
 
