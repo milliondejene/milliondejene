@@ -1,5 +1,4 @@
-Million Dejene
-👋 Full-Stack Developer | Django | React | Python | JavaScript | REST APIs | PostgreSQL | Tailwind CSS | Deployment & DevOps
+Full-Stack Developer | Django | React | Python | JavaScript | REST APIs | PostgreSQL | Tailwind CSS | Deployment & DevOps
 
 Welcome to my GitHub profile! I’m a software graduate with 5+ years of experience in building scalable, modern, and user-friendly web applications. I specialize in Django (Python) for backend development and React (JavaScript) for frontend development, delivering seamless and high-performance solutions tailored to business needs.
 
