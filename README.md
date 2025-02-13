@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m a software graduate with 5+ years of experie
 About Me
 🎓 Education:
 
-Bachelor’s Degree in Software Engineering from [Your University Name].
+Bachelor’s Degree in Software Engineering
 
 💻 Experience:
 
