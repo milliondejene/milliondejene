@@ -1,92 +1,35 @@
-Full-Stack Developer | Django | React | Python | JavaScript | REST APIs | PostgreSQL | Tailwind CSS | Deployment & DevOps
+# 👋 Hi, I'm Million Dejene Gari  
+**Senior Backend & DevOps Engineer | AI/ML Integration Specialist | Blockchain Enthusiast**  
+*9+ years crafting scalable systems, CI/CD pipelines, and now diving deep into Web3 & EVM/Solana ecosystems*
 
-Welcome to my GitHub profile! I’m a software graduate with 5+ years of experience in building scalable, modern, and user-friendly web applications. I specialize in Django (Python) for backend development and React (JavaScript) for frontend development, delivering seamless and high-performance solutions tailored to business needs.
+## 🚀 Professional Summary
 
-About Me
-🎓 Education:
+Seasoned **Senior Backend Developer** with **over 9 years** of hands-on experience designing, building, and scaling high-performance backend systems and robust DevOps infrastructure. Expert in **Node.js, Python, Java**, and cloud-native architectures on **AWS** and **Azure**.
 
-Bachelor’s Degree in Software Engineering
+Currently advancing into **AI/ML integration** — deploying RAG pipelines, Azure OpenAI, and production-grade ML models. Passionate about **Web3, EVM smart contracts, and Solana development** as the future of decentralized systems.
 
-💻 Experience:
+> *"Building reliable systems today, decentralized applications tomorrow."*
 
-5+ years of hands-on experience in full-stack web development.
+---
 
-Proven track record of delivering high-quality, scalable, and maintainable web applications.
+## 🛠️ Tech Stack & Expertise
 
-🚀 Passion:
-I’m passionate about solving complex problems, writing clean and efficient code, and building applications that make a real impact. I thrive in collaborative environments and enjoy working on projects that challenge me to grow as a developer.
+| Category                  | Technologies |
+|---------------------------|------------|
+| **Languages**             | Python, JavaScript/TypeScript, Java, C++, Rust (learning), Solidity, Move |
+| **Backend Frameworks**    | FastAPI, Django, Node.js (Express, NestJS), Spring Boot |
+| **Cloud & DevOps**        | AWS (ECS, Lambda, CloudFormation), Azure (App Services, Functions, AKS), Terraform, Ansible, Jenkins, GitLab CI/CD |
+| **AI/ML & Automation**    | RAG Pipelines, Azure OpenAI, Document Intelligence, LangChain, MLflow |
+| **Blockchain & Web3** 🔗  | **EVM (Solidity, Hardhat, Foundry)**, **Solana (Rust, Anchor)**, Web3.js, ethers.js, The Graph, IPFS |
+| **Databases**             | PostgreSQL, MySQL, MongoDB, Oracle, Redis |
+| **Containerization**      | Docker, Kubernetes, Docker Compose |
+| **Frontend (Full-Stack)** | React, Redux Toolkit, Gatsby, Next.js |
+| **Testing & QA**          | Cypress (E2E), Jest, PyTest, Postman |
 
-Technologies & Tools
-Backend Development
-Frameworks: Django, Django REST Framework (DRF), Flask, FastAPI
+## 🌱 Currently Exploring (Web3 Focus)
 
-Databases: PostgreSQL, MySQL, SQLite, MongoDB
-
-APIs: RESTful APIs, GraphQL
-
-Frontend Development
-Frameworks/Libraries: React.js, Next.js, Redux, Context API
-
-Languages: HTML5, CSS3, JavaScript (ES6+), TypeScript
-
-UI Libraries: Tailwind CSS, Material-UI, Bootstrap
-
-DevOps & Deployment
-Tools: Docker, Nginx, Gunicorn
-
-Platforms: AWS, Heroku, DigitalOcean, Vercel, Netlify
-
-CI/CD: GitHub Actions, CI/CD Pipelines
-
-Other Tools
-Version Control: Git, GitHub
-
-Testing: Postman, Pytest
-
-Project Management: Jira, Trello, Slack
-
-Featured Projects
-1. E-Commerce Platform
-Description: A full-stack e-commerce application with Django backend and React frontend.
-
-Features:
-
-User authentication and authorization.
-
-Product management and shopping cart functionality.
-
-Payment gateway integration (Stripe).
-
-Tech Stack: Django, React, PostgreSQL, Tailwind CSS, REST APIs.
-
-2. Task Management System
-Description: A task management app with real-time updates and user collaboration features.
-
-Features:
-
-Task creation, assignment, and tracking.
-
-Real-time notifications and file uploads.
-
-User roles and permissions.
-
-Tech Stack: Django, React, WebSocket, PostgreSQL, Material-UI.
-
-3. Blogging Platform
-Description: A blogging platform with rich text editing, user comments, and SEO optimization.
-
-Features:
-
-Rich text editor for blog creation.
-
-User authentication and comment system.
-
-SEO-friendly URLs and metadata.
-
-Tech Stack: Django, React, PostgreSQL, Tailwind CSS.
-
-What I Offer
-✅ Client-Centric Approach: I prioritize understanding your business goals and delivering solutions that drive real results.
-✅ Clean & Maintainable Code: I follow best practices to ensure your project is scalable and easy to maintain.
-✅ Timely Delivery: I respect deadlines and keep you updated throughout the development process.
-✅ Long-Term Support: I offer post-development support to ensure your application runs
+- Smart Contract Development: Solidity, Hardhat, Foundry, OpenZeppelin
+- Solana Programs: Rust + Anchor Framework
+- Decentralized Apps (dApps): React + ethers.js + wagmi.sh
+- On-Chain Data: The Graph, Substreams, Dune Analytics
+- Layer 2 & Cross-Chain: Polygon, Arbitrum, zkSync, Wormhole
