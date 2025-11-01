@@ -4,7 +4,7 @@
 
 ## 🚀 Professional Summary
 
-Seasoned **Senior Backend Developer** with **over 9 years** of hands-on experience designing, building, and scaling high-performance backend systems and robust DevOps infrastructure. Expert in **Node.js, Python, Java**, and cloud-native architectures on **AWS** and **Azure**.
+**Senior Backend Developer** with **over 9 years** of hands-on experience designing, building, and scaling high-performance backend systems and robust DevOps infrastructure. Expert in **Node.js, Python, Java**, and cloud-native architectures on **AWS** and **Azure**.
 
 Currently advancing into **AI/ML integration** — deploying RAG pipelines, Azure OpenAI, and production-grade ML models. Passionate about **Web3, EVM smart contracts, and Solana development** as the future of decentralized systems.
 
